@@ -60,8 +60,11 @@ CREATE DATABASE openbanking_db;
 ### Конфігурація
 
 Створіть свій файл `application.yaml` або створіть файл .env та додайте такі поля:
+
 DB_URL= ваш url бази данних
+
 DB_USERNAME= ваше ім'я бази данних
+
 DB_PASSWORD= ваш пароль для бази данних
 
 ## Запуск
