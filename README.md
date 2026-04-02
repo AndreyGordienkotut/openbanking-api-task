@@ -63,18 +63,18 @@ CREATE DATABASE openbanking_db;
 DB_URL= ваш url бази данних
 DB_USERNAME= ваше ім'я бази данних
 DB_PASSWORD= ваш пароль для бази данних
-### Запуск
 
-## Клонування репозиторію
+## Запуск
+
+### Клонування репозиторію
 git clone 
 cd openbanking-api
 
-## Збірка проєкту
+### Збірка проєкту
 ./gradlew build
 
-## Запуск
+### Запуск
 ./gradlew bootRun
-
 
 Додаток запуститься на `http://localhost:8080`
 
